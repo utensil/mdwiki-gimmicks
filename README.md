@@ -15,6 +15,8 @@ A link to the rich content is not what I want. These rich content should be able
 * directly show on the wiki, instead of requiring downloading
 * be plain text editable thus `diff`-able in version control systems, instead of editing externally by other software if possible
 
+I've written a few gimmicks to do so, and a few being written. They would introduce external dependencies thus not appropriate to be included in MDWiki itself. That's why this repo is created to share them.
+
 Development Status
 ----------------------
 
@@ -29,6 +31,6 @@ Planned Gimmicks
 License
 -----------------
 
-MIT Licence, see LICENSE. Copyright (c) 2014 Utensil Song (https://github.com/utensil)
+MIT License, see LICENSE. Copyright (c) 2014 Utensil Song (https://github.com/utensil)
 
 
