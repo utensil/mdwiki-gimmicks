@@ -10,12 +10,13 @@ Thanks to @Dynalon 's MDWiki, I've been using it in my team for knowledge sharin
 
 Now and then, I would need to share something more complicated: tables, slides, UML diagrams, charts, timelines and so on. Markdown is powerful and extensible, but not designed for rich content like this. In the editor, I've add the functionality to paste in already taken screen-shots, so images can be easily added.
 
-A link to the rich content is not what I want. These rich content should be able to:
+Linking to rich contents is not what I want. These rich content should be able to:
 
 * directly show on the wiki, instead of requiring downloading
 * be plain text editable thus `diff`-able in version control systems, instead of editing externally by other software if possible
 
-I've written a few gimmicks to do so, and a few being written. They would introduce external dependencies thus not appropriate to be included in MDWiki itself. That's why this repo is created to share them.
+I've written a few gimmicks to do so, and a few planning. They would introduce external dependencies thus not appropriate to be included in MDWiki itself.
+
 
 Development Status
 ----------------------
