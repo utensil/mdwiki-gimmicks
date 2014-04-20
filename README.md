@@ -26,8 +26,24 @@ Early stage.
 Available Gimmicks
 --------------------
 
+
 Planned Gimmicks
 --------------------
+
+* **Tocify Sidebar**, based on
+  - [jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js)
+* **Excel Preview** , based on
+  - [js-xls](https://github.com/SheetJS/js-xls)
+* **Time Line**, based on
+  - [vis.js](https://github.com/almende/vis)
+* **Dot-like Graph**, based on
+  - [vis.js](https://github.com/almende/vis)
+* **UML Sequence Diagram**, based on
+  - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams)
+* **Chart**, based on 
+  - [peity](https://github.com/benpickles/peity)
+* **Slide**, based on 
+  - [remark](https://github.com/gnab/remark) or [slides-now](https://github.com/bahmutov/slides-now)
 
 License
 -----------------
