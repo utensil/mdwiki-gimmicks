@@ -1,0 +1,1 @@
+XLS = require 'imports?require=>false!exports?XLS!xlsjs'
