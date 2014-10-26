@@ -30,15 +30,16 @@ module.exports = [{
     // },   
     externals: [
         {
-            //"window": "window"
+            "httpinvoke": "httpinvoke",
+            "jquery": "jQuery"
         }
     ],
     target: 'web',
     plugins: [
         new webpack.ProvidePlugin({
             $: "jquery",
-            jQuery: "jquery",
-            _: "lodash"
+            jQuery: "jquery"
+            //_: "lodash"
         }),
         //new webpack.optimize.UglifyJsPlugin(),
         // new webpack.optimize.OccurenceOrderPlugin(),

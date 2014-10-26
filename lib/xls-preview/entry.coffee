@@ -1,3 +1,7 @@
-XLS = require 'imports?require=>false!exports?XLS!xlsjs'
+XLS = require 'imports?require=>undefined!exports?XLS!xlsjs'
 
-XlsUtils = require './old_imp/xlsutils'
+process_wb = require './old_imp/xlsutils'
+
+http_invoke = require 'httpinvoke'
+
+require 'imports?http_invoke=>http_invoke&XLS=>XLS&process_wb=>process_wb!./old_imp/xlspreview'
