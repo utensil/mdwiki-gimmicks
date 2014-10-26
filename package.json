@@ -1,0 +1,29 @@
+{
+  "name": "mdwiki-gimmicks",
+  "version": "0.0.0",
+  "description": "Gimmicks(a.k.a. plugins) I've written for MDwiki(https://github.com/Dynalon/mdwiki) Gimmicks(a.k.a. plugins) I've written for MDwiki(https://github.com/Dynalon/mdwiki) ",
+  "main": "index.js",
+  "dependencies": {
+    "xlsjs": "~0.7.1",
+    "imports-loader": "~0.6.3",
+    "exports-loader": "~0.6.2"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.8.0",
+    "coffee-loader": "~0.7.2",
+    "webpack": "~1.4.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utensil/mdwiki-gimmicks.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utensil/mdwiki-gimmicks/issues"
+  },
+  "homepage": "https://github.com/utensil/mdwiki-gimmicks"
+}
