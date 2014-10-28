@@ -8,6 +8,7 @@ module.exports = [{
         extensions: ["", ".webpack.js", ".web.js", ".coffee", ".js"],
         alias: {
             //'vendor': "./vendor/vendor.min.js"
+            'process_wb': __dirname + "/lib/xls-preview/old_imp/xlsutils"
         }
     },
     entry: {
