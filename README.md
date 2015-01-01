@@ -38,6 +38,8 @@ Planned Gimmicks
   - [vis.js](https://github.com/almende/vis)
 * **Dot-like Graph**, based on
   - [vis.js](https://github.com/almende/vis)
+* **Flow Chart**, based on
+  - [flowchart.js](https://github.com/adrai/flowchart.js)
 * **UML Sequence Diagram**, based on
   - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams)
 * **Chart**, based on 
