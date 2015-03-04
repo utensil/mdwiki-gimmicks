@@ -42,10 +42,12 @@ Planned Gimmicks
   - [flowchart.js](https://github.com/adrai/flowchart.js)
 * **UML Sequence Diagram**, based on
   - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams)
+  - [JUMLY](https://github.com/tmtk75/jumly)
 * **Chart**, based on 
   - [peity](https://github.com/benpickles/peity)
 * **Slide**, based on 
-  - [remark](https://github.com/gnab/remark) or [slides-now](https://github.com/bahmutov/slides-now)
+  - [remark](https://github.com/gnab/remark)
+  - [slides-now](https://github.com/bahmutov/slides-now)
 
 License
 -----------------
