@@ -37,10 +37,13 @@ Planned Gimmicks
 * **Time Line**, based on
   - [vis.js](https://github.com/almende/vis)
 * **Dot-like Graph**, based on
+  - [mermaid](https://github.com/knsv/mermaid)
   - [vis.js](https://github.com/almende/vis)
 * **Flow Chart**, based on
+  - [mermaid](https://github.com/knsv/mermaid)
   - [flowchart.js](https://github.com/adrai/flowchart.js)
 * **UML Sequence Diagram**, based on
+  - [mermaid](https://github.com/knsv/mermaid)
   - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams)
   - [JUMLY](https://github.com/tmtk75/jumly)
 * **Chart**, based on 
